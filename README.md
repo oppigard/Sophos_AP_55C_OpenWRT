@@ -1,5 +1,10 @@
 # Tested using iMac 2011 and Macbook pro (M1 Pro)
 
+## What you need
+* ethernet cable
+* screw driver
+* CP2102 module USB to TTL serial UART (I bought mine on Aliexpress for 3$)
+  
 ## Step 1. Prepare your Sophos.
 Disassemble it and find the UART header. 
 ![IMG_3812](https://github.com/user-attachments/assets/23fda168-6636-4b02-bca3-191f4a10e13e)

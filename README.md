@@ -12,7 +12,7 @@ You can find the original repo here: [GitHub 4ban](https://github.com/4ban/Sopho
   
 ## Step 1. Prepare your Sophos.
 Disassemble it and find the UART header. 
-![IMG_3812](https://github.com/user-attachments/assets/23fda168-6636-4b02-bca3-191f4a10e13e)
+![UART](https://raw.githubusercontent.com/oppigard/Sophos_AP_55C_OpenWRT/refs/heads/main/ap55c_uart.jpeg)
 
 Header pins on the picture from left to right: 
 * pin 1 - RX
